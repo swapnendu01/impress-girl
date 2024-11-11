@@ -14,7 +14,7 @@ def move_button(event):
 
 root = Tk()
 root.title("instagram:@python")
-root.geometry("400x400")
+root.geometry("600x600")
 
 question_label = Label(root, text="do you like me?")
 question_label.pack(pady=20)
